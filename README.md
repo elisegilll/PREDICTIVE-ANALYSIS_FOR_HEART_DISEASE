@@ -1,7 +1,8 @@
 # PREDICTIVE-ANALYSIS_FOR_HEART_DISEASE
+
+The main objective of this project is to develop a machine-learning model that can accurately predict the likelihood of heart disease in patients based on various clinical and demographic factors. 
+
 Notes on process of creating my model to prevent and predict Heart Disease!  
-
-
 First Dataset:
 	The accuracy is relatively low at about 58.9%. This might not be sufficient depending on the requirements of your task.
 	The classification report shows very poor performance for some classes (1, 2, 4) with no predictions correctly made for class 1 and 4.
